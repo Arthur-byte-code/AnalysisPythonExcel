@@ -12,4 +12,5 @@ A coluna 'idade' é acessada, contando a ocorrência de cada valor único nela, 
 A tabela 'trabalho' é acessada, contando a quantidade de valores únicos, e em seguida, esses valores são exibidos em forma de porcentagem. - **The 'work' table is accessed, counting the number of unique values, and then these values are displayed as percentages.**
 ![3](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/56eb3546-1a99-4d7c-8307-02efe7ce5299)
 **[4]**
+A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a variável 'grafico' é criada para representar a distribuição de trabalhos em um gráfico de pizza, seguido por um comando para exibir o gráfico. - **The Plotly Express library is imported and aliased as 'px'. Then, the 'grafico' variable is created to represent the job distribution in a pie chart, followed by a command to display the chart.**
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
