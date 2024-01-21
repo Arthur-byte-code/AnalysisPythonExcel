@@ -9,6 +9,7 @@ A biblioteca Pandas é importada, cria-se a variável 'tabela' para receber a ba
 A coluna 'idade' é acessada, contando a ocorrência de cada valor único nela, e em seguida, exibindo esses valores em forma de porcentagem.- **The 'age' column is accessed, counting the occurrence of each unique value in the column, and then displaying these values as percentages.**
 ![2](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/9286f2e9-af1a-4eea-905b-9ee3421cb708)
 **[3]**
+A tabela 'trabalho' é acessada, contando a quantidade de valores únicos, e em seguida, esses valores são exibidos em forma de porcentagem. - **The 'work' table is accessed, counting the number of unique values, and then these values are displayed as percentages.**
 ![3](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/56eb3546-1a99-4d7c-8307-02efe7ce5299)
 **[4]**
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
