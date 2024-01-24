@@ -22,7 +22,7 @@ A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a va
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
 
 
-# To view tos project it is necessary to have the following libraries:
+# To view this project it is necessary to have the following libraries:
 
 ```bash
 pip install pandas
