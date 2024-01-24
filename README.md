@@ -26,7 +26,7 @@ A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a va
 
 ```bash
 pip install pandas
-
+```
 
 ```bash
 pip install plotly 
