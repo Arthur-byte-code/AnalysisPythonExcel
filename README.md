@@ -1,6 +1,5 @@
 #  Basic Python analysis - Análise básica Python
-Algoritmo python que lê planilha excel e exibe gráfico estatístico (gráfico de pizza). It is a python code that reads excel files and shows a statistic and graphical representation (pie chart)
-**Veja abaixo em ordem - You can see right below in order**
+Algoritmo python que lê planilha excel e exibe gráfico estatístico (gráfico de pizza). Veja abaixo em ordem: **It is a python code that reads excel files and shows a statistic and graphical representation (pie chart)** - **You can see right below in order**
 
 **[1]**
 A biblioteca Pandas é importada, cria-se a variável 'tabela' para receber a base de dados e, em seguida, um comando exibe-a. - **The Pandas library is imported, a variable 'tabela' is created to receive the database, and then a command displays it.**
