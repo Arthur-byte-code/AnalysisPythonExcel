@@ -22,6 +22,7 @@ A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a va
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
 
 
+![IMG_20240125_224525](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/94de72f3-6585-4d3a-8f6b-b6d3b783bfe2)
 
 
 
