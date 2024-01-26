@@ -21,7 +21,7 @@ A coluna 'trabalho' é acessada, contando a quantidade de valores únicos, e em 
 A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a variável 'grafico' é criada para representar a distribuição de trabalhos em um gráfico de pizza, seguido por um comando para exibir o gráfico. - **The Plotly Express library is imported and aliased as 'px'. Then, the 'grafico' variable is created to represent the job distribution in a pie chart, followed by a command to display the chart.**
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
 
-
+**Tabel in english**
 ![IMG_20240125_224525](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/94de72f3-6585-4d3a-8f6b-b6d3b783bfe2)
 
 
