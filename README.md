@@ -1,3 +1,4 @@
+
 #  Basic Python analysis - Análise básica Python
 Algoritmo python que lê planilha excel e exibe gráfico estatístico (gráfico de pizza). Veja abaixo em ordem: **It is a python code that reads excel files and shows a statistic and graphical representation (pie chart)** - **You can see right below in order**
 
@@ -19,6 +20,11 @@ A coluna 'trabalho' é acessada, contando a quantidade de valores únicos, e em 
 **[4]**
 A biblioteca Plotly Express é importada e apelidada como 'px'. Em seguida, a variável 'grafico' é criada para representar a distribuição de trabalhos em um gráfico de pizza, seguido por um comando para exibir o gráfico. - **The Plotly Express library is imported and aliased as 'px'. Then, the 'grafico' variable is created to represent the job distribution in a pie chart, followed by a command to display the chart.**
 ![4](https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/09794382-4898-43b5-9a1a-7899de0e5da2)
+
+
+
+**trasnlated table**
+< img src="https://github.com/Arthur-byte-code/AnalysisPythonExcel/assets/152222113/1a1914f1-6f64-4f6b-85e7-9ccaab325044" width="200" height="200">
 
 
 # To view this project it is necessary to have the following libraries (Bibliotecas necessárias):
